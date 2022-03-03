@@ -1,2 +1,2 @@
 # Assignments
-Assignment Codes For Data Science Topics Like Statistics, Random Variable, Normal Distribution, Z test, T- statistics , COnfidence Interval and Hyposthesis Testing
+Assignment Codes For Data Science Topics Like Statistics, Random Variable, Normal Distribution, Standard Normal Distribution, T - statistics , Confidence Interval and Hyposthesis Testing
